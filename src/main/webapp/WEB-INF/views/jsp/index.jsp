@@ -49,7 +49,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2019</p>
+		<p>&copy; Wissen Infotech 2023</p>
 	</footer>
 </div>
 
