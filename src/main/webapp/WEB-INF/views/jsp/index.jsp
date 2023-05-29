@@ -40,8 +40,9 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies, Marathahalli, Bengaluru, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,+91-8296242028</h3>
+			<h2>Welcome To Wissen Infotech Private Limited, Adarshecoplace, Bengaluru, Inida ,Karnataka.</h2>
+			<h3>CICD continuous integration And Continuous Deployement, Delivery To Deploy Applications In Tomcat Using Jenkins Pipeline </h3>
+			<h4>Deployed From AWS 12th Batch Thnaking You.</h4> 
 		</div>	
 	</div>
 
